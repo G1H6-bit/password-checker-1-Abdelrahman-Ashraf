@@ -10,7 +10,7 @@ A Python desktop app that analyzes how strong your password is using real cybers
 
 ## 📸 Screenshot
 
-> _Add your screenshot here_
+![Password Checker Screenshot](Password%20Checker%20Screen%20Shot.png)
 
 ---
 
